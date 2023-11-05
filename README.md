@@ -40,7 +40,7 @@ https://shorts.wtf
 
 ### Repos:
 * https://github.com/valory-xyz/generatooorr  - agent
-* https://github.com/valory-xyz/mech-eth-lisbon-2023  - contracts [public]
+* https://github.com/valory-xyz/mech-eth-lisbon-2023  - contracts
 * https://github.com/valory-xyz/mech-offchain-eth-lisbon-2023 - mech
 * https://github.com/valory-xyz/shorts-frontend - frontend
   
